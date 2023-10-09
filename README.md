@@ -5,7 +5,8 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 ## Table of Contents
 
 
-## Demo(https://sufianadnan.github.io/Simple-Calculator/)
+## Demo
+You can see a live demo of the calculator app here: [Demo Link](https://sufianadnan.github.io/Simple-Calculator/)
 
 ![Calculator Screenshot](Screenshot.png)
 
