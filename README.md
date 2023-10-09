@@ -25,3 +25,6 @@ To run this calculator locally, follow these steps:
 
    ```bash
    git clone https://github.com/sufianadnan/Simple-Calculator/
+   
+2. `cd Simple-Calculator`
+
